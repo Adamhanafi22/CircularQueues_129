@@ -99,7 +99,7 @@ int main() {
 			cout << "menu" << endl;
 			cout << "1.implement insert operation" << endl;
 			cout << "2.implement deleted operation" << endl;
-			cout << "3.display valus" << endl;
+			cout << "3.display valus" << endl; 
 
 		}
 	}
