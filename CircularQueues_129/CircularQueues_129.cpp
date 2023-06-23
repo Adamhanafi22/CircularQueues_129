@@ -100,6 +100,10 @@ int main() {
 			cout << "1.implement insert operation" << endl;
 			cout << "2.implement deleted operation" << endl;
 			cout << "3.display valus" << endl; 
+			cout << "EXIT" << endl;
+			cout << "Enter your choice (1-4):";
+			cin >> ch;
+			cout << endl;
 
 		}
 	}
